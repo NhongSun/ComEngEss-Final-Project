@@ -1,4 +1,4 @@
-# Gapu.io
+# Gatuk.io
 This repository used for ComEngEss Final project (G10)
 
 Members :
@@ -8,5 +8,7 @@ Members :
 - [ChanatpakornD](https://github.com/ChanatpakornD)
 
 Stack
-- Simple
-- ExpressJS
+- HTML
+- CSS
+- JavaScript
+- Node.js
